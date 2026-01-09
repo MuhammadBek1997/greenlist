@@ -1,11 +1,11 @@
 import './App.css'
-import Header from './pages/Header'
+import Holiday from './pages/holiday'
 
-function App() {
+function App(){
 
   return (
     <>
-      <Header/>
+      <Holiday />
     </>
   )
 }

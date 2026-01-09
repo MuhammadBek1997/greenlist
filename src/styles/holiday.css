@@ -1,4 +1,4 @@
-.holiday{
+.bayram{
     width: 1440px;
     height: 350px;
     display: flex;
@@ -12,7 +12,7 @@ p{
    font-size: 18px;
 }
 
-.holiday-img{
+.bayram-img{
     width: 720px;
     margin-top: 4pc;
 }
