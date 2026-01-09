@@ -26,12 +26,6 @@ const Header = () => {
             </div>
 
 
-
-
-
-
-
-
         </div>
     )
 }
