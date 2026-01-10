@@ -1,3 +1,56 @@
-h2{
-    color: red;
+* {
+    padding: 0;
+    margin: 0;
+ background-color: #023A15;
+}
+
+
+
+.nav-logo {
+    margin-left: 100px;
+    margin-top: 40px;
+    display: flex;
+    color: white;
+
+}
+
+.nav-list {
+    display: flex;
+    gap: 30px;
+    margin-left: 990px;
+    font-size: 20px;
+    color: white;
+}
+
+.hero-list {
+    margin-top: 150px;
+    margin-left: 100px;
+    font-size: 80px;
+    width: 20px;
+    color: white;
+}
+
+.hero-logo {
+    margin-left: 750px;
+    margin-top: -455px;
+}
+
+.hero-logo-png {
+    margin-left: 999px;
+    margin-top: -20px;
+}
+
+.hero-logo-npm {
+    margin-top: -200px;
+}
+
+.hero-logo-nmp {
+    margin-top: -570px;
+    margin-left: 820px;
+}
+
+.hero-logo-pmn {
+    margin-top: 280px;
+    margin-left: 1075px;
+
 }
