@@ -1,5 +1,5 @@
 import './App.css'
-import Educate from './pages/educate'
+import Educate from './pages/Educate'
 import Header from './pages/Header'
 
 function App() {
