@@ -1,0 +1,68 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  background-color: #1f5f3a;
+  font-family: 'Playfair Display', serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.container {
+  text-align: center;
+}
+
+h1 {
+  font-size: 64px;
+  line-height: 1.2;
+  margin-bottom: 40px;
+}
+
+h1 span {
+  color: #f1bfa7;
+}
+
+.slack-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  background-color: white;
+  color: #333;
+  padding: 14px 24px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.slack-btn:hover {
+  opacity: 0.9;
+}
+
+.slack-icon {
+  width: 20px;
+  height: 20px;
+}
+
+.trial-text {
+  margin-top: 12px;
+  font-size: 14px;
+  opacity: 0.9;
+}
+
+footer {
+  position: absolute;
+  bottom: 30px;
+  font-size: 14px;
+}
+
+footer a {
+  color: white;
+  text-decoration: none;
+}
