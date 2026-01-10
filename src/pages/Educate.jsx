@@ -1,4 +1,4 @@
-import '../styles/educate.css'
+import '../styles/Educate.css'
 
 const Educate = () => {
     return (
