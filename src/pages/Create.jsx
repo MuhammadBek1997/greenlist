@@ -5,7 +5,7 @@ const Create = ()=>{
         <>
             <section className="create">
       <h2>
-        Create a cleaner and
+        Create a cleaner and <br />
         better world, on Slack.
       </h2>
 

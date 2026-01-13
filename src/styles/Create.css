@@ -1,27 +1,34 @@
 .create {
   position: relative;
-  text-align: ce  nter;
   align-items: center;
   background-color: #FFE6E2;
-  padding-top: 180px;
+  padding-top: 5px;
   height: 969px;
+  z-index: 1;
+}
+.color{
+  color: #F09C96;
 }
 
 .create h2 {
-  font-size: 48px;
+  font-size: 70px;
   font-weight: 700;
   color: #000;
   margin-bottom: 30px;
   line-height: 1.2;
+  margin-left: 26pc;
 }
 
 .create p {
-  font-size: 16px;
+  font-size: 13px;
   color: #555;
   line-height: 1.8;
   max-width: 700px;
   margin: 0 auto;
+  margin-bottom: 7pc;
+  margin-left: 32pc;
 }
+
 
 .create-image {
   position: absolute;

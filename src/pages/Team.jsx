@@ -7,19 +7,22 @@ const Team = () => {
             <section className='challenge'>
 
                 <div className='challenge-cont'>
-                    <h1>Challenge your team to make small, sustainable choices at work.</h1>
+                    <h1>Challenge your <br /> team to make small, <br /> sustainable choices <br /> at work.</h1>
                 </div>
 
                <div className='simple'>
                     <p>
-                        Greenlist is a simple internal tool that empowers companies to start a sustainable office lifestyle while driving change in a way that feels natural. With both a fun and inspiring approach, Greenlist turns cutting down on plastic into a friendly in-company competition that celebrates individuals for their efforts.
+                        Greenlist is a simple internal tool that empowers <br /> companies to start a sustainable office
+                         lifestyle while <br /> driving change in a way that feels natural. With both a fun <br /> and inspiring approach,
+                          Greenlist turns cutting down on <br /> plastic into a friendly in-company competition that <br /> celebrates individuals
+                           for their efforts.
                     </p>
                     
                 </div>
                 
                  
                 <div className='velo'>
-                <img src="/imgaes/bola.png" alt="" />
+                <img src="/imgaes/bola.png" alt="" className='boy'/>
                 </div>
 
             </section>

@@ -5,16 +5,18 @@
  }
 
  .challenge{
+   position: relative;
    margin-top:50px ;
+   padding-bottom: 150px;
     background: url(/public/imgaes/qiz.png)  90% no-repeat ;
+    z-index: 5;
  }
- .challenge-cont {
-    width: 613px;
-    height: 363px;
-    font-size: 34px;
+ .challenge-cont h1 {
+    font-size: 74px;
     margin-left: 50px;
     
  }
+
 
  .simple {
     width: 460px;
@@ -27,4 +29,9 @@
    margin-left: 50px;
    margin-top: 100px;
    background: cover;
+
+}
+.boy{
+   position: absolute;
+   bottom: -150px;
 }

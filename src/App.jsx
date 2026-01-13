@@ -11,7 +11,10 @@ function App() {
     <>
       <Header/>
       <Team/>
+      <Create/>
       <Education/>
+      <Holiday/>
+      <Footer/>
     </>
   )
 }
