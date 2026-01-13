@@ -4,12 +4,13 @@ import Holiday from './pages/holiday'
 import Footer from './pages/Footer'
 import Create from './pages/create'
 import Header from './pages/Header'
-
-function App(){
+import Team from './pages/team'
+function App() {
 
   return (
     <>
       <Header/>
+      <Team/>
       <Education/>
     </>
   )
