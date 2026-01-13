@@ -1,4 +1,5 @@
 import './App.css'
+import Education from './pages/Education'
 import Holiday from './pages/holiday'
 import Footer from './pages/Footer'
 import Create from './pages/create'
@@ -9,9 +10,7 @@ function App(){
   return (
     <>
       <Header/>
-      <Create/>
-      <Holiday />
-      <Footer />
+      <Education/>
     </>
   )
 }
