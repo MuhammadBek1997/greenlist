@@ -1,6 +1,6 @@
-import '../styles/Educate.css'
+import '../styles/Education.css'
 
-const Educate = () => {
+const Education = () => {
     return (
         <>
 
@@ -23,4 +23,4 @@ const Educate = () => {
     )
 }
 
-export default Educate
+export default Education
