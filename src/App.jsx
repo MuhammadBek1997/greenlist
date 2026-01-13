@@ -1,12 +1,11 @@
 import './App.css'
-<<<<<<< HEAD
 import Education from './pages/Education'
-=======
-import Educate from './pages/Educate'
->>>>>>> 645c8ab8e7b8080a87e4d97b32e606aa527e87cf
+import Holiday from './pages/holiday'
+import Footer from './pages/Footer'
+import Create from './pages/create'
 import Header from './pages/Header'
 
-function App() {
+function App(){
 
   return (
     <>
@@ -17,3 +16,5 @@ function App() {
 }
 
 export default App
+
+

@@ -1,0 +1,44 @@
+.create {
+  position: relative;
+  text-align: ce  nter;
+  align-items: center;
+  background-color: #FFE6E2;
+  padding-top: 180px;
+  height: 969px;
+}
+
+.create h2 {
+  font-size: 48px;
+  font-weight: 700;
+  color: #000;
+  margin-bottom: 30px;
+  line-height: 1.2;
+}
+
+.create p {
+  font-size: 16px;
+  color: #555;
+  line-height: 1.8;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.create-image {
+  position: absolute;
+  width: 811px;
+  height: 543px;
+  border-radius: 15px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  bottom: -328px;
+  margin-right: -50%;
+  z-index: 998;
+}
+
+.create-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 15px;
+  margin-top: 100px;
+}
